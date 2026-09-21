@@ -134,3 +134,8 @@ Un fichier **Analyse.txt** est généré automatiquement, contenant :
 
 ![Diagramme UML - AnalyseurReseaux](analyseuruml.png)
 
+---
+
+![Diagramme de séquence - AnalyseurReseaux](docs/uml/sequence_analyse.png)
+
+
