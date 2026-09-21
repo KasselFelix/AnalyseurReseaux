@@ -136,6 +136,6 @@ Un fichier **Analyse.txt** est généré automatiquement, contenant :
 
 ---
 
-![Diagramme de séquence - AnalyseurReseaux](docs/uml/sequence_analyse.png)
+![Diagramme de séquence - AnalyseurReseaux](sequence_analyse.png)
 
 
