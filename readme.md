@@ -131,3 +131,6 @@ Un fichier **Analyse.txt** est généré automatiquement, contenant :
 - Support des captures PCAP
 
 ---
+
+![Diagramme UML - AnalyseurReseaux](analyseuruml.png)
+
